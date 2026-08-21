@@ -1,5 +1,3 @@
-!(https://raw.githubusercontent.com/aridiosilva/SDD_versus_Vibe_Coding/blob/main/imagem-artigo_vibe-coding_versus_SSD.jpeg)
-
 
 # **🔍 Spec-Driven Development vs. Vibe Coding: **
 ## Qual abordagem faz mais sentido para o seu time?
@@ -114,9 +112,6 @@ Quanto maior o custo do erro e mais stakeholders envolvidos, mais a balança pen
 
 
 
-💬 E você? Sua equipe já adota alguma dessas abordagens — ou um misto das duas?  
-
-Compartilhe sua experiência nos comentários! 👇
 
 
 
