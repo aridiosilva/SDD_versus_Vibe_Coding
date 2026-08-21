@@ -50,7 +50,7 @@
 Muitos times adotam um híbrido: vibe coding para exploração inicial e protótipos descartáveis, migrando para SDD assim que o projeto define escopo real — especialmente em ambientes regulados, onde rastreabilidade de requisito→código é exigida por auditoria (algo que conecta diretamente com GRC). O critério prático costuma ser: quanto maior o custo de erro e mais stakeholders envolvidos, mais a balança pende para spec-driven.
 
 ---
-# SDD (Spec-Driven Development) x Vibe Coding
+# Pipeline: SDD (Spec-Driven Development) x Vibe Coding
 
 ## Vibe Coding
 
@@ -95,11 +95,6 @@ Combinar exploração estruturada com specs vivas: vibe-codar para descobrir req
 - Tessl
 
 ---
-
-*Observação: este comparativo tem forte aderência a temas de GRC (rastreabilidade, governança de artefatos, controle de mudanças), podendo ser aprofundado sob a ótica de segurança/GRC.*
-
-
-
 
 
 
