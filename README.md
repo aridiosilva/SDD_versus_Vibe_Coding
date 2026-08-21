@@ -1,3 +1,4 @@
+<img width="1080" height="720" alt="imagem-artigo_vibe-coding_versus_SSD" src="https://github.com/user-attachments/assets/d2ce76f1-864f-4dc0-a306-0571e7a779b7" />
 
 # **🔍 Spec-Driven Development vs. Vibe Coding: **
 ## Qual abordagem faz mais sentido para o seu time?
