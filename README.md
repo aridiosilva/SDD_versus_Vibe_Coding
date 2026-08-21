@@ -1,3 +1,4 @@
+<https://github.com/aridiosilva/SDD_versus_Vibe_Coding/blob/main/imagem-artigo_vibe-coding_versus_SSD.jpeg>
 # **🔍 Spec-Driven Development vs. Vibe Coding: **
 ## Qual abordagem faz mais sentido para o seu time?
 
