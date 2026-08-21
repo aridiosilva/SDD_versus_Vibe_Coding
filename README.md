@@ -1,5 +1,5 @@
 
-**🔍 Spec-Driven Development vs. Vibe Coding: qual abordagem faz mais sentido para o seu time?**
+*🔍 Spec-Driven Development vs. Vibe Coding: qual abordagem faz mais sentido para o seu time?**
 
 
 
