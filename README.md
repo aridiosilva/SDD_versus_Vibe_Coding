@@ -1,6 +1,6 @@
-# **🔍 Spec-Driven Development vs. Vibe Coding: qual abordagem faz mais sentido para o seu time?**
+# **🔍 Spec-Driven Development vs. Vibe Coding: **
 
-
+## qual abordagem faz mais sentido para o seu time?
 
 Com a ascensão da IA generativa, duas abordagens têm ganhado destaque no desenvolvimento de software: o **Spec-Driven Development (SDD)** e o chamado **Vibe Coding**. Ambas têm méritos, mas servem a propósitos bem diferentes.
 
